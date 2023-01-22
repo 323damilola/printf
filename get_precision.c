@@ -73,4 +73,4 @@ int get_precision(const char *format, int *i, va_list list)
         return (precision);
 
 }
-Mr Segun pls delete this line
+Mr. Segun pls this is the remaining task to be eddited
